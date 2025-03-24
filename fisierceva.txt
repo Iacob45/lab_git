@@ -1,2 +1,5 @@
 print(Vreau sa scap)
 Inca ceva
+linia 3
+linia 4
+linia 5
