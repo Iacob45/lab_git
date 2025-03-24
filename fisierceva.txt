@@ -1,1 +1,2 @@
 print(Vreau sa scap)
+Inca ceva
